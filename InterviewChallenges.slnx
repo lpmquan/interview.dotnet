@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AIEnumerable/AIEnumerable.csproj" />
+  <Project Path="BExceptionHandling/BExceptionHandling.csproj" />
+  <Project Path="CFileHandling/CFileHandling.csproj" />
+  <Project Path="DHttpClient/DHttpClient.csproj" />
+  <Project Path="EEFCore/EEFCore.csproj" />
+</Solution>

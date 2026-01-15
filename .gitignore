@@ -1,0 +1,24 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+bin
+obj
+*.csproj.user
+*.user
+**/appsettings.*json
+
+# log folder
+**log
+**Logs
+
+# file upload folder
+**FileUploads
+.mcp.json
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
