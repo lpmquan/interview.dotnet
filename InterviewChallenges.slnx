@@ -4,4 +4,5 @@
   <Project Path="CFileHandling/CFileHandling.csproj" />
   <Project Path="DHttpClient/DHttpClient.csproj" />
   <Project Path="EEFCore/EEFCore.csproj" />
+  <Project Path="FDependencyInjection/FDependencyInjection.csproj" />
 </Solution>
